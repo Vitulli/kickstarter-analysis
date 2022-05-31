@@ -6,6 +6,6 @@
 
 ##### The first point of interest was whether there was a time of year that could be identified where donnors were more likely contribute to the theater arts.  Month over Month data from year 2009 to 2017 was aggergated to yeild the following trends in succeful outcome for theater plays.
 
-![](blob/main/Outcomes_vs_Goals.png)
+![](Outcomes_vs_Goals.png)
 
 
