@@ -2,11 +2,14 @@
 ## Overview of Project
 ##### The intent of this project was to inspect donor behaviors to maximize the chances for funding a play. Aggregated Kickstarter donation data from 2009 forward to 2017 was made available for analysis. This data was managed into an analysis that leads to the conclusions around timing and overall funding.  The data set for these conclusions are named 'Outcomes Based on Launch Date Chart' and 'Outcomes Based on Goals Chart' within the Kickstarter Excel.
 
+
 ## Analysis and Challenges
+
 
 ##### The first point of interest was whether there was a time of year that could be identified where donors were more likely contribute to the theater arts. Month-over-Month data from year 2009 to 2017 was aggregated to yield the following trends in successful outcomes for theater plays. From the data it appears that summer months tend to capture the largest number of donors. This may be a response to better weather and outdoor plays. That being stated further filtering of countries that lay in the North Hemisphere or Southern Hemisphere may yield further insight.
 
 ##### Another point to the timing of request for endowments is that there is also a small increase in the amount of failed efforts during the summer months. This may lead to the conclusion that there is a known “donor season”.
+
 
 ![](Theater_Outcomes_vs_Launch.png)
 
