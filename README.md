@@ -8,13 +8,13 @@
 
 ##### Another point to the timing of request for endowments is that there is also a small increase in the amount of failed efforts during the summer months. This may lead to the conclusion that there is a known “donor season”.
 
-![](Outcomes_vs_Goals.png)
+![](Theater_Outcomes_vs_Launch.png)
 
 ##### As to the question of price point in the production of plays there seems to be clear data in that regard. As the price point of a play increases the chances of it failing increase as well. However, there is one area of outlier where higher priced plays can still be made.
 
 ##### Lastly, the current pricing data is problematic. All of the funding is priced in its home country’s currency.  The currency value can very widely from country to country and pain points for cost may vary widely from country to country as well. It would be recommended that cost evaluation be limited to the country of interest or at least to countries with similar currency values. This could be achieved by adding an additional column of data that converts all countries currency to a year current mean value and then converted to USD.
 
-![](Theater_Outcomes_vs_Launch.png)
+![](Outcomes_vs_Goals.png)
 
 ##  Results
 ##### Overall, given the current filtering requirements, the best month to seek patron’s endowments are in May with the summer months (May, June, and July) overall seemingly the most productive.
