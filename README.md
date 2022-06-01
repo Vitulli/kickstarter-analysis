@@ -22,7 +22,7 @@
 
 
 ##  Results
-##### Overall, given the current filtering requirements, the best month to seek patron’s endowments are in May with the summer months (May, June, and July) overall seemingly the most productive.
+##### Overall, given the current filtering requirements, the best month to seek patron’s endowments are in May with the summer months (May, June, and July) seemingly the most productive.
 
 ##### Financially, plays made for under $5000 have almost and 80% chance of success with a steady decline in support from that price point up.  Between $15,000 and $19,999 there is a fifty percent chance to meet the goals of the play and sharp decline after that. However, there is one outlier in the data. Plays that are made in the range of $35,000 to $44,999 have a 70% chance of being produced while anything above that price point has little chance to every make the stage.
 
